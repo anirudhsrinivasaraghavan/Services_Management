@@ -2,7 +2,7 @@
 
 A simple web application for managing service requests for a field service company. Built with React for the frontend, Node.js for the backend, and MongoDB as the database.
 
-![App Screenshot](./path-to-your-screenshot.png) *(Optional: Include a screenshot of the application)*
+![App Screenshot](./ss.png) *(Optional: Include a screenshot of the application)*
 
 ## Features
 
