@@ -73,4 +73,5 @@ Visit `http://localhost:3000` in your browser.
 ## Deployment
 
 Detailed steps on how to deploy to platforms like Heroku, Vercel, or Netlify. 
-The frontend is deployed on :
+The frontend is deployed on : https://powerful-sea-37477-977d65cf45fc.herokuapp.com/
+The backend is deployed on : https://shielded-hollows-86430-85b5383bce16.herokuapp.com/
