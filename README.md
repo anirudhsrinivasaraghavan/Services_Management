@@ -1,6 +1,6 @@
 # Service Requests Web Application
 
-A simple web application for managing service requests for a field service company. Built with React for the frontend, [Your Backend Framework] for the backend, and MongoDB as the database.
+A simple web application for managing service requests for a field service company. Built with React for the frontend, Node.js for the backend, and MongoDB as the database.
 
 ![App Screenshot](./path-to-your-screenshot.png) *(Optional: Include a screenshot of the application)*
 
@@ -40,7 +40,7 @@ npm install
 
 Backend:
 ```
-cd backend
+cd services-request-backend
 npm install
 ```
 
@@ -57,13 +57,13 @@ PORT=3001
 
 Frontend:
 ```
-cd frontend
+cd services-request-frontend
 npm start
 ```
 
 Backend:
 ```
-cd backend
+cd services-request-backend
 node server.js
 ```
 
@@ -72,6 +72,5 @@ Visit `http://localhost:3000` in your browser.
 
 ## Deployment
 
-Detailed steps on how to deploy to platforms like Heroku, Vercel, or Netlify. *(Include links to detailed guides or the steps you followed for deploying your application.)*
-
-
+Detailed steps on how to deploy to platforms like Heroku, Vercel, or Netlify. 
+The frontend is deployed on :
