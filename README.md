@@ -2,6 +2,10 @@
 
 A simple web application for managing service requests for a field service company. Built with React for the frontend, Node.js for the backend, and MongoDB as the database.
 
+Frontend: React
+Backend: Node.js
+DB: Mongo Atlas
+
 ![App Screenshot](./ss.PNG)
 
 ## Features
